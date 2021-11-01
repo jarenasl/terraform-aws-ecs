@@ -62,4 +62,5 @@ This is a simple config to deploy an application on ECS using ECR as docker regi
 
 <h3> Improvement </h3>
 <p> - Implement HTTPS </p>
+<p> More info: https://aws.amazon.com/es/blogs/containers/maintaining-transport-layer-security-all-the-way-to-your-container-using-the-application-load-balancer-with-amazon-ecs-and-envoy/ </p>
 
