@@ -37,7 +37,6 @@ This is a simple config to deploy an application on ECS using ECR as docker regi
  <ol>
   <li> Terraform v0.13.0 </li>
   <li> provider registry.terraform.io/hashicorp/aws v3.2.0 </li>
-  <li> Python3 </li> 
  </ol>
   STEP 2:
    <ol>
